@@ -1,0 +1,2 @@
+# Helper-Ai
+A high-performance, feature-rich AI chat application powered by Google's Gemini models, featuring real-time streaming, markdown support, and chat history.
